@@ -1,0 +1,26 @@
+.mode{
+    position: absolute;
+   left:90%;
+}
+
+.group{
+    display:flex;
+    
+}
+#dropdownMenuButton1{
+    position: absolute;
+    left: 88%;
+    bottom: 7%;
+}
+body{
+    background-color: white;
+}
+.card{
+    border-radius:0px;
+    
+}
+.modal-header{
+    border-color: transparent;
+}
+
+
